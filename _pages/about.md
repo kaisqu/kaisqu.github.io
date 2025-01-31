@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A father, the officer of cat litter box, and a researcher
+subtitle: A father, the officer of cat litter box, and a researcher.
 
 profile:
   align: right
