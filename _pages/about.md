@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: A father, the officer of cat litter box, and a researcher.
 
 profile:
   align: right
   image: prof_pic_color.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info:
 
 news: true # includes a list of news items
@@ -19,4 +19,4 @@ I am currently a Staff Research Scientist at <img src="../assets/img/meta.png" h
 
 My current research interests include human avatars, multi-modal models, and generative models. I'm dedicated to the creation and understanding of image/video/3d representations. With extensive experience in both academy and industry, I enjoy bringing the knowledge together and benefiting from both side.
 
-Please feel free to [email](KAI1 AT META DOT COM) me if you have any questions.
+Please feel free to [email](KAI1 AT META DOT COM) me if you have any questions or you are interested in collaborations.

@@ -25,3 +25,19 @@
 "yuille":
   - firstname: ["Alan L.", "Alan"]
     url: https://www.cs.jhu.edu/~ayuille/
+
+"ranade":
+  - firstname: ["Siddhant"]
+    url: https://www.siddhantranade.com/
+
+"lassner":
+  - firstname: ["Christoph"]
+    url: https://christophlassner.de/
+
+"bazin":
+  - firstname: ["Jean-Charles"]
+    url: https://scholar.google.com/citations?user=XPZLx-8AAAAJ&hl=en
+
+"bouaziz":
+  - firstname: ["Sofien"]
+    url: https://sofienbouaziz.com/
