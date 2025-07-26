@@ -45,11 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-presented-our-paper-at-eccv-2024-milan-italy",
-          title: 'Presented our paper at ECCV 2024, Milan, Italy! 🇮🇹',
-          description: "",
-          section: "News",},{id: "news-on-parental-leave-until-end-of-feb-2025-sparkles-smile",
-          title: 'On parental leave until end of Feb 2025! :sparkles: :smile:',
+    },{id: "news-our-paper-is-accepted-by-iccv-2025-see-you-in-hawaii",
+          title: 'Our paper is accepted by ICCV 2025. See you in Hawaii!',
           description: "",
           section: "News",},{
       id: 'light-theme',
