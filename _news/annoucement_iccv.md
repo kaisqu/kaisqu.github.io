@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper is accepted by ICCV 2025. See you in Hawaii! 
+Our paper is accepted by ICCV 2025. See you in Hawaii!
