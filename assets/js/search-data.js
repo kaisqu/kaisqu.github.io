@@ -45,8 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-our-paper-is-accepted-by-iccv-2025-see-you-in-hawaii",
-          title: 'Our paper is accepted by ICCV 2025. See you in Hawaii!',
+    },{id: "news-our-paper-is-accepted-by-cvpr-2026-see-you-in-denver",
+          title: 'Our paper is accepted by CVPR 2026. See you in Denver!',
           description: "",
           section: "News",},{
       id: 'light-theme',
