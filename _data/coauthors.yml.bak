@@ -1,8 +1,6 @@
 "ma":
   - firstname: ["Wufei"]
     url: https://wufeim.github.io/
-  - firstname: ["Xiaowen"]
-    url: https://www.linkedin.com/in/xma-programmer-designer/
 
 "jiang":
   - firstname: ["Zhongshi"]
@@ -21,8 +19,6 @@
 "wang":
   - firstname: ["Huiyu"]
     url: https://csrhddlam.github.io/
-  - firstname: ["Lucy"]
-    url: https://www.linkedin.com/in/lucywang21/
 
 "hane":
   - firstname: ["Christian"]
@@ -92,17 +88,11 @@
   - firstname: ["Jiu"]
     url: https://scholar.google.com/citations?user=K52c6wEAAAAJ&hl=en
 
-  - firstname: ["Yichen"]
-    url: https://scholar.google.com/citations?user=nNpyhdsAAAAJ&hl=en
-
 "niessner":
   - firstname: ["Matthias"]
     url: https://niessnerlab.org/members/matthias_niessner/profile.html
 
 "bagautdinov":
-  - firstname: ["Timur"]
-    url: https://scholar.google.com/citations?user=oLi7xJ0AAAAJ&hl=en
-
   - firstname: ["Timur"]
     url: https://scholar.google.com/citations?user=oLi7xJ0AAAAJ&hl=en
 
@@ -170,6 +160,10 @@
   - firstname: ["Marco"]
     url: https://scholar.google.com/citations?user=90mfYFsAAAAJ&hl=it
 
+"xu":
+  - firstname: ["Yichen"]
+    url: https://scholar.google.com/citations?user=nNpyhdsAAAAJ&hl=en
+
 "wen":
   - firstname: ["He"]
     url: https://scholar.google.com/citations?user=uvvp6CAAAAAJ&hl=en
@@ -198,6 +192,18 @@
   - firstname: ["James"]
     url: https://www.linkedin.com/in/jabooth/
 
+"wang":
+  - firstname: ["Huiyu"]
+    url: https://csrhddlam.github.io/
+  - firstname: ["Lucy"]
+    url: https://www.linkedin.com/in/lucywang21/
+
+"ma":
+  - firstname: ["Wufei"]
+    url: https://wufeim.github.io/
+  - firstname: ["Xiaowen"]
+    url: https://www.linkedin.com/in/xma-programmer-designer/
+
 "rong":
   - firstname: ["Yu"]
     url: https://penincillin.github.io/
@@ -217,6 +223,18 @@
 "saragih":
   - firstname: ["Jason"]
     url: https://scholar.google.com/citations?user=ss-IvjMAAAAJ&hl=en
+
+"bagautdinov":
+  - firstname: ["Timur"]
+    url: https://scholar.google.com/citations?user=oLi7xJ0AAAAJ&hl=en
+
+"sheikh":
+  - firstname: ["Yaser"]
+    url: https://scholar.google.com/citations?user=Yd4KvooAAAAJ&hl=en
+
+"saito":
+  - firstname: ["Shunsuke"]
+    url: https://shunsukesaito.github.io/
 
 "sheikh":
   - firstname: ["Yaser"]
